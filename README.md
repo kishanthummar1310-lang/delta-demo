@@ -1,1 +1,7 @@
 # delta-demo.
+ls
+# TEACHER 
+TAG ON TOP
+
+# KIOAMAO
+JONATHAN
